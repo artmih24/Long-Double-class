@@ -1,0 +1,8 @@
+﻿  Lab3.cpp
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(64,70): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(65,76): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(66,80): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(94,20): warning C4305: инициализация: усечение из "double" в "float"
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(96,20): warning C4305: инициализация: усечение из "double" в "float"
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(80): warning C4723: возможное деление на 0
+  Lab3.vcxproj -> E:\Artem\MA\Lab3\Lab3\x64\Debug\Lab3.exe

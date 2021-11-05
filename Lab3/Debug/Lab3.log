@@ -1,0 +1,14 @@
+﻿  ConsoleFrontEnd.cpp
+  Lab3.cpp
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(94,20): warning C4305: инициализация: усечение из "double" в "float"
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(96,20): warning C4305: инициализация: усечение из "double" в "float"
+  LongDouble.cpp
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(595,10): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(611,9): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(631,10): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(633,10): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(651,9): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Artem\MA\Lab3\Lab3\Lab3\LongDouble.cpp(672,9): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+E:\Artem\MA\Lab3\Lab3\Lab3\Lab3.cpp(80): warning C4723: возможное деление на 0
+  Lab3.vcxproj -> E:\Artem\MA\Lab3\Lab3\Debug\Lab3.exe
